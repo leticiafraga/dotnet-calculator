@@ -1,0 +1,17 @@
+C:\Users\letic\leticia\csharp\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\letic\leticia\csharp\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\letic\leticia\csharp\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\letic\leticia\csharp\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\letic\leticia\csharp\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\letic\leticia\csharp\Calculator\bin\Debug\net6.0\FluentColorConsole.dll
+C:\Users\letic\leticia\csharp\Calculator\obj\Debug\net6.0\Calculator.csproj.CopyComplete

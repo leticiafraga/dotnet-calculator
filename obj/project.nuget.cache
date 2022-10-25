@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWVIj2nYXPPFuG7301HOsDOOyRekCfY9nrq4EV6+bAA6wOE4FKndFBHJ4rlAhSzdYmKV/T0vu8ZV4O6miHhzPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\letic\\leticia\\csharp\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\letic\\.nuget\\packages\\fluentcolorconsole\\2.0.1\\fluentcolorconsole.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
